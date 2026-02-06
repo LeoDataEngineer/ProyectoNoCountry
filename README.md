@@ -17,7 +17,7 @@ git --version
    - Haz clic en el botón "Fork" en la esquina superior derecha de la página para crear tu propia copia del repositorio en tu cuenta de GitHub.
 2. Clona el repositorio en tu máquina local.
  ```bash
- git clone https://github.com/mrGoonies/data-engineer-guide
+ git clone https://github.com/LeoDataEngineer/ProyectoNoCountry.git
  ```
 3. Crea una rama para tu contribución y cambiate a esa rama.
  ```bash
